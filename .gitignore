@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.venv/
+venv/
+ENV/
+
+# Databases & Memory
+agent_memory.db
+*.sqlite
+
+# Environment variables (API keys)
+.env
+
+# Tooling
+.vscode/
+uv.lock
